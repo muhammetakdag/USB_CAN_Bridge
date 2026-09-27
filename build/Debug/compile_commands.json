@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\syscall.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\syscall.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/syscall.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\sysmem.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\sysmem.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/sysmem.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\main.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\main.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/main.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/main.c.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\startup_stm32f103xx.S.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\startup_stm32f103xx.S",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/startup_stm32f103xx.S",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/startup_stm32f103xx.S.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\flash.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\flash.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/flash.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/flash.c.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\gpio.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\gpio.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/gpio.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/gpio.c.obj"
+},
+{
+  "directory": "D:/Projects/USB_CAN_Bridge/build/Debug",
+  "command": "C:\\PROGRA~1\\Arm\\GNUTOO~1\\bin\\AR19DD~1.EXE -DDEBUG -DRTE_DEVICE_STARTUP_STM32F1XX -ID:\\Projects\\USB_CAN_Bridge\\Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m3 -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\USB_CAN_Bridge.dir\\Src\\rcc.c.obj -c D:\\Projects\\USB_CAN_Bridge\\Src\\rcc.c",
+  "file": "D:/Projects/USB_CAN_Bridge/Src/rcc.c",
+  "output": "CMakeFiles/USB_CAN_Bridge.dir/Src/rcc.c.obj"
+}
+]

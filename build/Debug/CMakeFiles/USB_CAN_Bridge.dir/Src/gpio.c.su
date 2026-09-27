@@ -1,0 +1,4 @@
+D:\Projects\USB_CAN_Bridge\Src\gpio.c:37:13:s_port_c_pin_init	4	static
+D:\Projects\USB_CAN_Bridge\Src\gpio.c:49:6:gpio_init	8	static
+D:\Projects\USB_CAN_Bridge\Src\gpio.c:53:6:LED_pin_high	4	static
+D:\Projects\USB_CAN_Bridge\Src\gpio.c:57:6:LED_pin_low	4	static

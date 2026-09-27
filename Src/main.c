@@ -1,3 +1,4 @@
+
 /**
  ******************************************************************************
  * @file           : main.c
@@ -17,9 +18,23 @@
  */
 
 #include <stdint.h>
+#include "../Inc/rcc.h"
+#include "../Inc/gpio.h"
 
 int main(void)
 {
+    mcu_clk_init();
+    peripheral_clk_init();
+    gpio_init();
     /* Loop forever */
-	for(;;);
+	for(;;){
+        LED_pin_low();
+        for(uint32_t i = 0; i < 500000; i++){
+
+        };
+        LED_pin_high();
+        for(uint32_t i = 0; i < 500000; i++){
+
+        };
+    };
 }

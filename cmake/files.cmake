@@ -4,6 +4,9 @@ target_sources(${PROJECT_NAME} PRIVATE
     "${CMAKE_CURRENT_SOURCE_DIR}/Src/sysmem.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/Src/main.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/Src/startup_stm32f103xx.S"
+    "${CMAKE_CURRENT_SOURCE_DIR}/Src/flash.c"
+    "${CMAKE_CURRENT_SOURCE_DIR}/Src/gpio.c"
+    "${CMAKE_CURRENT_SOURCE_DIR}/Src/rcc.c"
 )
 
 configure_file("${CMAKE_CURRENT_SOURCE_DIR}/stm32f103x8_flash.ld" "${CMAKE_CURRENT_BINARY_DIR}" COPYONLY)

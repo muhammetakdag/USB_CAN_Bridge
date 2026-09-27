@@ -1,0 +1,9 @@
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:58:13:s_hse_init	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:67:13:s_pll_init	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:80:13:s_sys_clk_sw	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:86:13:s_set_APB_1_psc	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:91:13:s_CAN_clk_enable	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:96:13:s_USB_clk_enable	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:101:13:s_GPIOC_clk_enable	4	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:109:6:mcu_clk_init	8	static
+D:\Projects\USB_CAN_Bridge\Src\rcc.c:117:6:peripheral_clk_init	8	static
